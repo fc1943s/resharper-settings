@@ -1,1 +1,1 @@
-# resharper-settings
+My personal resharper settings, shared here to keep my different dev environments updated.
