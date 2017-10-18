@@ -1,1 +1,1 @@
-My personal resharper settings, shared here to keep my different dev environments updated.
+Moved to https://github.com/stewshka/stuff/tree/master/settings/resharper
