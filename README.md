@@ -1,1 +1,1 @@
-Moved to https://github.com/stewshka/stuff/tree/master/settings/resharper
+Moved to https://github.com/kalkisama/stuff/tree/master/settings/resharper
